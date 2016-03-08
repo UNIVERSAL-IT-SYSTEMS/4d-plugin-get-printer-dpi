@@ -1,0 +1,1 @@
+﻿{"name":"get-printer-dpi","id":20000,"commands":[{"theme":"get-printer-dpi","syntax":"PRINTER DPI LIST(&T;&Y;&Y;&T)"},{"theme":"get-printer-dpi","syntax":"GET PRINTER DPI(&T;&8;&8;&T)"}]}
