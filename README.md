@@ -1,5 +1,7 @@
 # 4d-plugin-get-printer-dpi
 
+Get list of supported DPIs. ``""`` will return information about the default printer.
+
 ##Platform
 
 | carbon | cocoa | win32 | win64 |
